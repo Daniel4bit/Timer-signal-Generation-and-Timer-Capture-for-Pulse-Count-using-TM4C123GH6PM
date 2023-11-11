@@ -1,1 +1,5 @@
-Timer signal Generation and Timer Capture for Pulse Count using TM4C123GH6PM
+Board Used:TM4C123GH6PM
+
+Configure 1 32 bit Timer-Wtimer0 in  periodic mode and down-counter and PWM mode.
+
+For Capturing Configured Timer 3 in- up-count, edge-count, capture mode. 
